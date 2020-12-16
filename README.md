@@ -1,6 +1,6 @@
 # Carte June
 
-A webb app where users can register and view their current vaccinations. An alternative to the International Certificate of Vaccination or Prophylaxis or the Carte June.
+A webb app where users can register and view their current vaccinations. An alternative to the International Certificate of Vaccination or Prophylaxis, or the Carte June.
 
 ### TODO
 
